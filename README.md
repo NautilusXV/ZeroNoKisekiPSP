@@ -14,8 +14,8 @@ Detective Notebook(Cooking, Fishnote, Bestiary) Won't be 100% complete because o
 
 [Imgur Gallery](https://imgur.com/a/hIygu) The game does look wayyy better with the HD textures.
 
-# Latest Version: Ver.1.0
-Download https://mega.nz/#!BpJxmRBS!GEUjaDFVZ2x8PZYEngFkbnfRm3wHN6URniRLN6uB9ug
+# Latest Version: Ver.1.0.0
+Download https://github.com/NautilusXV/ZeroNoKisekiPSP/releases
 
 ## Installation
 Extract the "NPJH50311" folder to your "TEXTURES" folder. **ppsspp\memstick\PSP\TEXTURES**
